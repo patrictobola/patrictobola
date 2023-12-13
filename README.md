@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrictobola&label=Profile%20views&color=0e75b6&style=flat" alt="patrictobola" /> </p>
 
-- 🔭 I’m currently working on [BDoctors](https://github.com/patrictobola/BDoctors)
+- 🔭 I’m currently working on [Java]([https://github.com/patrictobola/BDoctors](https://it.wikipedia.org/wiki/Java_(linguaggio_di_programmazione)))
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patrictobola](https://github.com/patrictobola)
 
