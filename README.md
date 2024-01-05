@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Java]([https://github.com/patrictobola/BDoctors](https://it.wikipedia.org/wiki/Java_(linguaggio_di_programmazione)))
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patrictobola](https://github.com/patrictobola)
 
