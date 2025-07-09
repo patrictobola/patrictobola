@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrictobola&label=Profile%20views&color=0e75b6&style=flat" alt="patrictobola" /> </p>
 
-- 🔭 I’m currently working on [Java]([https://github.com/patrictobola/BDoctors](https://it.wikipedia.org/wiki/Java_(linguaggio_di_programmazione)))
+- 🔭 I’m currently working on [Unreal Engine]
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/patrictobola](https://github.com/patrictobola)
+- 👨‍💻 All of my public projects are available at [https://github.com/patrictobola](https://github.com/patrictobola)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/patric-tobola/](https://www.linkedin.com/in/patric-tobola/)
+- 📝 I can find me on [https://www.linkedin.com/in/patric-tobola/](https://www.linkedin.com/in/patric-tobola/)
 
 - 📫 How to reach me **tobola92@gmail.com**
 
